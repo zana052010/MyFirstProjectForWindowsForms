@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\zana\\source\\repos\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\zana\\source\\repos\\winformsapp1\\winformsapp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\zana\\source\\repos\\winformsapp1\\winformsapp1\\loginforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\loginforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\zana\\source\\repos\\winformsapp1\\winformsapp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\zana\\source\\repos\\WinFormsApp1\\winformsapp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -42,31 +42,30 @@
               "RelativeToolTip": "WinFormsApp1\\RegisterForm.Designer.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAD4vz4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T19:10:08.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T19:10:08.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\zana\\source\\repos\\WinFormsApp1\\WinFormsApp1\\RegisterForm.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\RegisterForm.cs",
               "ToolTip": "C:\\Users\\zana\\source\\repos\\WinFormsApp1\\WinFormsApp1\\RegisterForm.cs",
               "RelativeToolTip": "WinFormsApp1\\RegisterForm.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwDwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv0YAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-18T16:05:29.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginForms.cs",
               "DocumentMoniker": "C:\\Users\\zana\\source\\repos\\WinFormsApp1\\WinFormsApp1\\LoginForms.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\LoginForms.cs",
               "ToolTip": "C:\\Users\\zana\\source\\repos\\WinFormsApp1\\WinFormsApp1\\LoginForms.cs",
               "RelativeToolTip": "WinFormsApp1\\LoginForms.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAD4vxEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-18T11:18:07.63Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "ToolTip": "C:\\Users\\zana\\source\\repos\\WinFormsApp1\\WinFormsApp1\\LoginForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WinFormsApp1\\LoginForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T14:41:14.246Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-06-18T14:41:14.246Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "ToolTip": "C:\\Users\\zana\\source\\repos\\WinFormsApp1\\WinFormsApp1\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WinFormsApp1\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T15:35:31.343Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-06-18T15:35:31.343Z"
             }
           ]
         }
